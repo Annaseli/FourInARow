@@ -1,6 +1,5 @@
 A custom four-in-a-row game that has been implemented using Python and is displayed on GUI.
 
-=========================
 Author: Anna Seliverstov
 =========================
 
