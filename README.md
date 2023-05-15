@@ -1,5 +1,7 @@
+Four in a Row Game
+===================
+
 A custom four-in-a-row game that has been implemented using Python and is displayed on GUI.
-=========================
 
 The game is designed for two players, and consists of a board with 6 rows and 7 columns. 
 Player's A disc is a round picture of Daenerys from Game of Thrones and player's B disc is 
