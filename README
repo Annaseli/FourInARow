@@ -1,56 +1,20 @@
-evyatargavish, anna_seli
-Evyatar Gavish, Anna Seliverstov
+A custom four-in-a-row game that has been implemented using Python and is displayed on GUI.
 
-=============================
-=  README for ex12:  =
-=============================
+Author: Anna Seliverstov
 
-I used this sites:
-https://pixlr.com/x/
-http://effbot.org/tkinterbook/tkinter-index.htm
-http://www.science.smith.edu/dftwiki/index.php/Color_Charts_for_TKinter
-https://www.youtube.com/watch?v=D8-snVfekto
-https://www.youtube.com/watch?v=A0gaXfM1UN0
+The game is designed for two players, and consists of a board with 6 rows and 7 columns. 
+Player's A disc is a round picture of Daenerys from Game of Thrones and player's B disc is 
+a round picture of John Snow from Game of Thrones.
 
-==================
-=  Description:  =
-This project is about building a game of 4 in a row, by using GUI with tkinter library.
-We created file called ex12, that includes all of the pictures that are displayed in the
-gui game.
-We created file inside ex12 of game that includes the logic of the game, but displays nothing.
-We created file inside ex12 of ai that includes a function of random move of ai.
-We created file called four_in_a_row that includes the whole gui game.
-It has 3 classes each for a different window.
-The first window is a menu window that opens first. It leads to the second window, that
-displays to the user which kind of game he chose to play: Human vs. Human, Human vs. Computer,
-Computer vs. Human and Computer vs. Computer.
-It leads to the final window which is the game. It includes a board, pictures that represent
-players, status of the game and quit button.
-At the end of the game it asks for play again. If the answer is yes, it leads to the
-first window of menu.
-==================
+During their turn, players must choose a column into which they insert their disc, which 
+lands at the top of the stack in that column or at the bottom of a new column.
 
+The game ends when a player creates a sequence of four discs in any direction - vertical, 
+horizontal, or diagonal. After the game ends, the player is prompted to start a new game or quit.
 
-======================
-=  Special comments:  =
-======================
+There are four possible game modes: Human vs. Human, Human vs. Computer, Computer vs. Human, 
+and Computer vs. Computer. In Computer vs. Human and Computer vs. Computer games, the computer 
+randomly selects a column.
 
-
-The files:
-Project:
-    AUTHORS
-    README
-    four_in_a_row
-    ex12:
-        ai
-        game
-        ai.png
-        bran.png
-        tyrion.png
-        cover.png
-        crown.png
-        title.png
-        daenerys.png
-        daenerys_rules.png
-        johnsnow.png
-        johnsnow_rules.png
+The game is implemented in Python using Object-Oriented-Programming (OOP) design and utilizes 
+the tkinter library for the GUI.
