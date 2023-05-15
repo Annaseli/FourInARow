@@ -19,3 +19,10 @@ randomly selects a column.
 
 The game is implemented in Python using Object-Oriented-Programming (OOP) design and utilizes 
 the tkinter library for the GUI.
+
+Game screen shots:
+
+<img width="640" alt="Screen1" src="https://github.com/Annaseli/FourInARow/assets/44980761/58f22b53-144e-4aab-a31e-dee66daaa28d">
+<img width="638" alt="Screen2" src="https://github.com/Annaseli/FourInARow/assets/44980761/c17694d1-648a-4bc4-959b-cd7d0e0bf01b">
+<img width="638" alt="Screen3" src="https://github.com/Annaseli/FourInARow/assets/44980761/4bab8d4c-7aac-41af-b2d3-64f9ed0e3e06">
+<img width="641" alt="Screen4" src="https://github.com/Annaseli/FourInARow/assets/44980761/3d799bd3-81fa-420d-9b2b-dddf8a0f44ee">
