@@ -1,6 +1,4 @@
 A custom four-in-a-row game that has been implemented using Python and is displayed on GUI.
-
-Author: Anna Seliverstov
 =========================
 
 The game is designed for two players, and consists of a board with 6 rows and 7 columns. 
